@@ -1,7 +1,7 @@
 ---
 name: User Story
 about: This template provides a basic structure for user story issues.
-title: Story: [Short Name]
+title: "Story: [Short Name]"
 labels: story
 ---
 
