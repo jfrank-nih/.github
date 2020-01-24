@@ -5,7 +5,7 @@ title: "Story: [Short Name]"
 labels: story
 ---
 
-## As a [role], I want [feature], so that [benefit]
+### As a [role], I want [feature], so that [benefit]
 
 > **ESTIMATE** 20
 
