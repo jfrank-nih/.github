@@ -14,6 +14,7 @@ labels: spike
 * *How many pages would a change to X affect?*
 
 > **TIMEBOX** N hours/days
+
 ***NOTE: a spike should not go on for than 2 days, otherwise it is too big, or it needs to be an enabler and estimated.***
 
 ### Expected Deliverables:
