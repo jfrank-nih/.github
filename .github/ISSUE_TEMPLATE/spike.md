@@ -5,13 +5,11 @@ title: "Spike: [Short Name]"
 labels: spike
 ---
 
-## [Title of Spike]
+## In order to <achieve some goal> <a system or persona> needs to <some action>.
 
-*Description of what needs to be investigated.*
 *Examples:*
-* *Is there a module or package for that*
-* *What items would have to be updated*
-* *How many pages would a change to X affect?*
+* *In order to split the collection curve wizard story, the tech lead needs to do some detailed design. (Just enough to split the story.)*
+* *In order to estimate the content task story, the PO needs to do identify how many pages are affected. (Just detailed enough to estimate the story.)*
 
 > **TIMEBOX** N hours/days
 
@@ -22,6 +20,9 @@ labels: spike
 * *Answers to better story point*
 * *A spreadsheet with affected items*
 * *A new set of stories breaking down this story*
+
+### Additional Notes:
+* note 1
 
 ### Results of Spike
 *Enter the information, or links to any (non-sensative) files with the findings here*
