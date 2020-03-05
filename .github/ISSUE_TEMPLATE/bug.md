@@ -8,6 +8,8 @@ labels: bug
 ### Issue description
 *Description of the issue*
 
+> **ESTIMATE** 20
+
 ### Steps to reproduce the issue
 
 1.  
