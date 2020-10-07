@@ -8,7 +8,7 @@ labels: "change request"
 ### Issue description
 *Description of the issue*
 
-> **ESTIMATE** 20
+> **ESTIMATE** TBD
 
 ### What's the expected change?
 -
