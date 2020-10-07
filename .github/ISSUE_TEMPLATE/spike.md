@@ -11,7 +11,7 @@ labels: spike
 * *In order to split the collection curve wizard story, the tech lead needs to do some detailed design. (Just enough to split the story.)*
 * *In order to estimate the content task story, the PO needs to do identify how many pages are affected. (Just detailed enough to estimate the story.)*
 
-> **Story Points** 
+> **Estimated Timeframe** *# of days for completion* 
 
 ***NOTE: a single story point is about 1 day.  A spike should not go on for than 2 days, otherwise it is too big, or it needs to be an enabler and estimated.***
 
