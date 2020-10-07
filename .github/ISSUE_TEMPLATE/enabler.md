@@ -14,7 +14,7 @@ labels: enabler
 * *Define Unit Test Approach*
 * *Research UX Patterns for Search*
 
-> **ESTIMATE** 20
+> **ESTIMATE** TBD
 
 ### Resources:
 * Feature: JIRA Ticket #
