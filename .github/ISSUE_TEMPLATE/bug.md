@@ -8,7 +8,7 @@ labels: bug
 ### Issue description
 *Description of the issue*
 
-> **ESTIMATE** 20
+> **ESTIMATE** TBD
 
 ### Steps to reproduce the issue
 
