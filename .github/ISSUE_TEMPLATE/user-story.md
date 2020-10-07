@@ -7,7 +7,7 @@ labels: story
 
 ## As a [role], I want [feature], so that [benefit]
 
-> **ESTIMATE** 20
+> **ESTIMATE** TBD
 
 ### Acceptance Criteria
 
