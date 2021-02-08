@@ -1,0 +1,41 @@
+---
+name: Creative 
+about: This template provides a basic structure for creative tasks.
+title: "Creative: "
+labels: creative-task
+---
+
+## As a [role], I want [feature], so that [benefit]
+
+> **ESTIMATE** Story Points TBD
+
+> Feature: 
+
+### Description of Feature to be worked on
+
+### Breakdown of Tasks for the feature
+- [ ] Task 1
+- [ ] Task 2
+
+### Design Specs (if needed)
+1. Specification 1 (Font Color)
+2. Specification 2 (Font Size)
+3. Specification 3 (Drop Shadow Dimensions)
+
+### Resources:
+* Feature: JIRA Ticket #
+* Mockups: *Here goes a URL to or the name of the mockup(s) in inVision*
+* Web Page: *Here goes a URL to an existing web page*
+
+### Notes
+
+*Some complementary notes if necessary:*
+
+* > Here goes a quote from an email
+* Here goes whatever useful information can exist…
+
+---
+
+
+### Technical Notes
+- More notes, or technical nuances/direction
