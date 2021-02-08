@@ -1,5 +1,5 @@
 ---
-name: Creative 
+name: Creative Task
 about: This template provides a basic structure for creative tasks.
 title: "Creative: "
 labels: creative-task
