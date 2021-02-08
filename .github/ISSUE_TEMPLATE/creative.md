@@ -5,17 +5,15 @@ title: "Creative: "
 labels: creative-task
 ---
 
-## As a [role], I want [feature], so that [benefit]
-
 > **ESTIMATE** Story Points TBD
 
-> Feature: 
+> Feature/Main User Story: [Enter user story ticket association here] 
 
-### Description of Feature to be worked on
+### Description of Task to be worked on
 
-### Breakdown of Tasks for the feature
-- [ ] Task 1
-- [ ] Task 2
+### Breakdown of Task as needed
+- [ ] Sub-Task 1
+- [ ] Sub-Task 2
 
 ### Design Specs (if needed)
 1. Specification 1 (Font Color)
