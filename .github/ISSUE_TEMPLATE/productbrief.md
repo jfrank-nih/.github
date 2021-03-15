@@ -6,7 +6,7 @@ labels: productbrief
 ---
 
 ### Product name
-*Description of the issue*
+*Description of the product / request*
 
 ### Origin of request
 *Did the request come from the client? If so, from who and when?*
