@@ -8,6 +8,7 @@ labels: product brief
 ### Product name
 *Description of the product / request*
 
+
 Name of DOC:
 
 Main point of contact:
@@ -18,11 +19,10 @@ Date of Request:
 
 Requested Delivery Deadline:
 
-### Working title
 
 
 ### Background information
-*Any information about the request*
+*Please provide relevant background (with links) about the subject matter*
 
 > **ESTIMATE** TBD
 
