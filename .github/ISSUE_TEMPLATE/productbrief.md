@@ -1,23 +1,34 @@
 ---
 name: Product Brief
-about: Brief to kick off new features.
+about: A single product brief issue to document a new product, feature, and/or request from discovery to launch.
 title: "Product Brief: "
-labels: productbrief
+labels: product brief
 ---
 
 ### Product name
 *Description of the product / request*
 
-### Origin of request
-*Did the request come from the client? If so, from who and when?*
+Name of DOC:
+
+Main point of contact:
+
+OCPL Communications Lead:
+
+Date of Request:
+
+Requested Delivery Deadline:
+
+### Working title
+
+
+### Background information
+*Any information about the request*
 
 > **ESTIMATE** TBD
 
-### Steps to reproduce the issue
-
-1.  
-2. 
-3. 
+### Related Tickets
+* Issue #9999
+* Issue #9999
 
 ### What's the expected result?
 -
@@ -28,6 +39,4 @@ labels: productbrief
 ### Additional details / screenshot
 - ![Screenshot]()
 
-### Related Tickets
-* Issue #9999
-* Issue #9999
+
