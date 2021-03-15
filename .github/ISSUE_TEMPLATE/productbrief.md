@@ -26,12 +26,8 @@ Requested Delivery Deadline:
 *Please provide relevant background (with links) about the subject matter*
 
 
-### Messaging 
-*List 3 key messages with supporting bullets. Are there any visuals or messages to avoid?*
-
-
 ### Problem Solution / Call to Action
-*Effective graphics are often structured this way. Can you briefly state something for each?*
+*Statement of the problem to solve and/or call to action *
 
 
 ### Linked Tickets
