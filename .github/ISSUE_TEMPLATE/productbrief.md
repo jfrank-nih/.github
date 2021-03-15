@@ -34,9 +34,12 @@ Requested Delivery Deadline:
 *Effective graphics are often structured this way. Can you briefly state something for each?*
 
 
-### Related Tickets
-* Issue #9999
-* Issue #9999
+### Linked Tickets
+* Research Issue #9999
+* Analytics Issue #9999
+* Design Issue #9999
+* Development Issue #9999
+* Testing Issue #9999
 
 
 ### Additional details / screenshot
