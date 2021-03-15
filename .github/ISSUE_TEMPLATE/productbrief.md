@@ -1,12 +1,15 @@
 ---
 name: Product Brief
 about: Brief to kick off new features.
-title: [Short Name]
+title: "Product Brief: "
 labels: productbrief
 ---
 
-### Issue description
+### Product name
 *Description of the issue*
+
+### Origin of request
+*Did the request come from the client? If so, from who and when?*
 
 > **ESTIMATE** TBD
 
