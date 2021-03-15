@@ -1,7 +1,7 @@
 ---
-name: Creative Task
-about: This template provides a basic structure for creative tasks.
-title: "Creative: "
+name: Design
+about: This template provides a basic structure for design and creative tasks.
+title: "Design: "
 labels: creative-task
 ---
 
