@@ -9,6 +9,7 @@ labels: product brief
 *Description of the product / request*
 
 
+
 Name of DOC:
 
 Main point of contact:
@@ -24,17 +25,19 @@ Requested Delivery Deadline:
 ### Background information
 *Please provide relevant background (with links) about the subject matter*
 
-> **ESTIMATE** TBD
+
+### Messaging 
+*List 3 key messages with supporting bullets. Are there any visuals or messages to avoid?*
+
+
+### Problem Solution / Call to Action
+*Effective graphics are often structured this way. Can you briefly state something for each?*
+
 
 ### Related Tickets
 * Issue #9999
 * Issue #9999
 
-### What's the expected result?
--
-
-### What's the actual result?
--
 
 ### Additional details / screenshot
 - ![Screenshot]()
