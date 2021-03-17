@@ -10,12 +10,16 @@ labels: research
 ### What do you want to learn from this research?
 List the questions you would like to answer
 
-1. Question 1
-2. Question 2
-3. Question 3
+1. Question
+2. Question
+3. Question
+
+##
 
 ### User / Audience
 Who will be using this design? What personas / audiences are you considering?
+
+##
 
 ### Project Stage
 - [ ] Discovery
@@ -23,14 +27,19 @@ Who will be using this design? What personas / audiences are you considering?
 - [ ] Development
 - [ ] Live
 
+##
+
 ### Timeline
 When would you need findings / insights?
+
+##
 
 ### Resources
 * Link to product brief:
 * Github link:
 * Screens or site: 
 
-### Additional Notes
+##
 
+### Additional Notes
 *Any other comments or notes if needed:*
