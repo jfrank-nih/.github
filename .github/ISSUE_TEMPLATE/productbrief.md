@@ -23,14 +23,18 @@ Date of Request:
 Requested Delivery Deadline:
 
 
+##
+
 
 ### Background information
 *Please provide relevant background (with links) about the subject matter*
 
+##
 
 ### Problem Solution / Call to Action
 *Statement of the problem to solve and/or call to action *
 
+##
 
 ### Linked Tickets
 * Research Issue #9999
@@ -39,8 +43,8 @@ Requested Delivery Deadline:
 * Development Issue #9999
 * Testing Issue #9999
 
+##
 
-### Additional details / screenshot
+### Additional Assets 
+*Screenshots, resources, etc*
 - ![Screenshot]()
-
-
