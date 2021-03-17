@@ -2,7 +2,7 @@
 name: Design
 about: This template provides a basic structure for design and creative tasks.
 title: "Design: "
-labels: creative-task, design
+labels: track:design,
 ---
 
 > **ESTIMATE** Story Points TBD
@@ -22,7 +22,7 @@ labels: creative-task, design
 2. Specification  
 3. Specification 
 
-## InVision links
+## Design specs / InVision
 *Design specs indicated in the InVision links below. Please view in the inspect mode along with the comments panel*
 1. InVision link
 2. InVision link
@@ -35,9 +35,3 @@ labels: creative-task, design
 
 ### Design Research & Inspiration
 *Space to add inspiration, moodboards,etc*
-
-
----
-
-### Technical Notes
-*More notes, or technical nuances/direction*
