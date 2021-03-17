@@ -15,8 +15,9 @@ labels: track:design
 
 ### List of sub-tasks:
 *Add links to related tickets below*
-- [ ] Sub-Task 1
-- [ ] Sub-Task 2
+- [ ] Sub-Task
+- [ ] Sub-Task
+- [ ] Sub-Task
 
 ##
 
