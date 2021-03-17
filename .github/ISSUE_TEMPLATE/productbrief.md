@@ -37,11 +37,11 @@ Requested Delivery Deadline:
 ##
 
 ### Linked Tickets
-* Research Issue #9999
-* Analytics Issue #9999
-* Design Issue #9999
-* Development Issue #9999
-* Testing Issue #9999
+* Research + Analytics ticket #9999
+* Analytics ticket #9999
+* Design ticket #9999
+* Development ticket #9999
+* Testing ticket #9999
 
 ##
 
