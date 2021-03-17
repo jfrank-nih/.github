@@ -2,7 +2,7 @@
 name: Product Brief
 about: A single product brief to document a new product, feature, and/or request from discovery to launch.
 title: "Product Brief: "
-labels: product brief
+labels: product-brief
 ---
 
 ### Product name
