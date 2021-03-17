@@ -7,21 +7,30 @@ labels: research
 
 > Feature/Main User Story: [Enter user story ticket association here] 
 
-### Description of Task to be worked on
+### What do you want to learn from this research?
+List the questions you would like to answer
 
-### Breakdown of Task as needed
-- [ ] Sub-Task 1
-- [ ] Sub-Task 2
+1. Question 1
+2. Question 2
+3. Question 3
 
-### Research details
-1. Detail 1
-2. Detail 2
-3. Detail 3
+### User / Audience
+Who will be using this design? What personas / audiences are you considering?
 
-### Resources:
+### Project Stage
+- [ ] Discovery
+- [ ] Design
+- [ ] Development
+- [ ] Live
+
+### Timeline
+When would you need findings / insights?
+
+### Resources
 * Link to product brief:
 * Github link:
+* Screens or site: 
 
-### Notes
+### Additional Notes
 
-*Some complementary notes if necessary:*
+*Any other comments or notes if needed:*
