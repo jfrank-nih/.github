@@ -2,7 +2,7 @@
 name: Design
 about: This template provides a basic structure for design and creative tasks.
 title: "Design: "
-labels: creative-task
+labels: creative-task, design
 ---
 
 > **ESTIMATE** Story Points TBD
@@ -11,29 +11,27 @@ labels: creative-task
 
 ### Description of Task to be worked on
 
-### Breakdown of Task as needed
+### List of sub-tasks
+*Add links to related tickets below*
 - [ ] Sub-Task 1
 - [ ] Sub-Task 2
 
-### Design Specs (if needed)
-1. Specification 1 (Font Color)
-2. Specification 2 (Font Size)
-3. Specification 3 (Drop Shadow Dimensions)
+### Design Functionality
+*Describe how the design should function, e.g. color changes on hover*
+1. Specification 1 
+2. Specification 2 
+3. Specification 3
 
-### Resources:
+### Assets:
 * Feature: JIRA Ticket #
 * Mockups: *Here goes a URL to or the name of the mockup(s) in inVision*
 * Web Page: *Here goes a URL to an existing web page*
 
-### Notes
+### Design Research & Inspiration
+*Space to add inspiration, moodboards,etc*
 
-*Some complementary notes if necessary:*
-
-* > Here goes a quote from an email
-* Here goes whatever useful information can exist…
 
 ---
 
-
 ### Technical Notes
-- More notes, or technical nuances/direction
+*More notes, or technical nuances/direction*
