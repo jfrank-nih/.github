@@ -2,7 +2,7 @@
 name: Design
 about: This template provides a basic structure for design and creative tasks.
 title: "Design: "
-labels: track:design,
+labels: track:design
 ---
 
 > **ESTIMATE** Story Points TBD
