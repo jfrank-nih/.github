@@ -32,7 +32,7 @@ Requested Delivery Deadline:
 ##
 
 ### Problem Solution / Call to Action
-*Statement of the problem to solve and/or call to action *
+*Statement of the problem to solve and/or call to action*
 
 ##
 
