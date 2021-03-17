@@ -18,9 +18,15 @@ labels: creative-task, design
 
 ### Design Functionality
 *Describe how the design should function, e.g. color changes on hover*
-1. Specification 1 
-2. Specification 2 
-3. Specification 3
+1. Specification 
+2. Specification  
+3. Specification 
+
+## InVision links
+*Design specs indicated in the InVision links below. Please view in the inspect mode along with the comments panel*
+1. InVision link
+2. InVision link
+3. InVision link
 
 ### Assets:
 * Feature: JIRA Ticket #
