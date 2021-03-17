@@ -9,7 +9,7 @@ labels: creative-task, design
 
 > Feature/Main User Story: [Enter user story ticket association here] 
 
-### Description of Task to be worked on
+### Description of Design request
 
 ### List of sub-tasks
 *Add links to related tickets below*
