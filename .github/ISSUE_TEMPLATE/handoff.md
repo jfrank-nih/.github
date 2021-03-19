@@ -2,6 +2,8 @@
 
 ### Handoff of xxx component from design to development
 
+> **ESTIMATE** TBD
+
 ### Acceptance Criteria
 *Include specs:  List of colors (hex, token name), variants, and states.* 
 
@@ -15,7 +17,6 @@ Scenario: [title]
   Then  [outcome]
     And [another outcome]
 ```
-> **ESTIMATE** TBD
 
 ### Resources:
 * Feature: JIRA Ticket #
