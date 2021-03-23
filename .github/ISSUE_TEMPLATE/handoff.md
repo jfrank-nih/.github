@@ -1,4 +1,9 @@
-##
+---
+name: Handoff
+about: This template defines a template for atomic component issues.
+title: "[Short Name]"
+labels: handoff
+---
 
 ### Handoff of xxx component from design to development
 
