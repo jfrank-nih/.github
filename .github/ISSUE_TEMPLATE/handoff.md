@@ -49,4 +49,4 @@ Scenario: [title]
 - [ ] Short Task Description - Issue #9999
 
 ### Technical Notes
-- More notes, or technical nuances/direction
+- More notes, or technical nuances/direction 
