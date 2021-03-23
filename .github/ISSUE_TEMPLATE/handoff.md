@@ -1,5 +1,5 @@
 ---
-name: Handoff
+name: Atomic Component
 about: This template defines a template for atomic component issues.
 title: "[Short Name]"
 labels: handoff
