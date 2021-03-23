@@ -2,7 +2,7 @@
 name: Atomic Component
 about: This template defines a template for atomic component issues.
 title: "[Short Name]"
-labels: handoff
+labels: atomiccomponent
 ---
 
 ### Handoff of xxx component from design to development
