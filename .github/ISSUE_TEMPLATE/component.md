@@ -1,6 +1,6 @@
 ---
 name: Atomic Component
-about: This template defines a template for atomic component issues.
+about: This template defines a template for atomic component issues for the *Design System*.
 title: "[Short Name]"
 labels: component
 ---
