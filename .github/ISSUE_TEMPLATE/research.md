@@ -43,3 +43,13 @@ When would you need findings / insights?
 
 ### Additional Notes
 *Any other comments or notes if needed:*
+
+---
+>Section to be completed by user research after ticket creation
+### Research Activity
+- [ ] Intake and Approach
+- [ ] Research plan 
+- [ ] Draft tasks, guides, materials
+- [ ] Recruitment
+- [ ] Study launch
+- [ ] Analysis and report
