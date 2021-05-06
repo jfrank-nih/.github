@@ -49,7 +49,7 @@ Scenario: [title]
 - [ ]  Publish completed component in DSM
 
 ### Notion documentation:
-- [ ]  Insert Notion documentation
+- [ ]  Include information from Notion here
 
 ### Technical Notes
 - More notes, or technical nuances/direction 
