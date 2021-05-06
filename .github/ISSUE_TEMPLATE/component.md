@@ -45,7 +45,7 @@ Scenario: [title]
 - [ ] Short Spike Description - Issue #9999
 
 ### Tasks
-- [ ]  Draft needed internal documentation
+- [ ]  Draft needed internal documentation (insert notion link)
 - [ ]  Publish completed component in DSM
 
 ### Technical Notes
