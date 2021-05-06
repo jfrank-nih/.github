@@ -45,8 +45,8 @@ Scenario: [title]
 - [ ] Short Spike Description - Issue #9999
 
 ### Tasks
-- [ ] Short Task Description - Issue #9999
-- [ ] Short Task Description - Issue #9999
+- [ ]  Draft needed internal documentation
+- [ ]  Publish completed component in DSM
 
 ### Technical Notes
 - More notes, or technical nuances/direction 
