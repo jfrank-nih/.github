@@ -48,5 +48,8 @@ Scenario: [title]
 - [ ]  Draft needed internal documentation (insert Notion link)
 - [ ]  Publish completed component in DSM
 
+### Notion documentation:
+- [ ]  Insert Notion documentation
+
 ### Technical Notes
 - More notes, or technical nuances/direction 
