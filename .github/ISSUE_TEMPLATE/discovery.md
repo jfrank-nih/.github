@@ -13,6 +13,7 @@ labels: discovery
 * *Create Application Framework*
 * *Define Unit Test Approach*
 * *Research UX Patterns for Search*
+* Persona / user empathy exploration*
 
 > **ESTIMATE** TBD
 
