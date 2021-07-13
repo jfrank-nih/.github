@@ -6,35 +6,23 @@ labels: discovery
 ---
 
 # Title of Discovery Initiative
+*Description of what is to be accomplished and hoped outcomes*
 
-*Description of what is to be accomplished.*
-*Examples:*
-* *Initial Setup of Dev Tier*
-* *Create Application Framework*
-* *Define Unit Test Approach*
-* *Research UX Patterns for Search*
-* *Persona / user empathy exploration*
 
-> **ESTIMATE** TBD
+### Potential Tasks
+*Update the list and remove Potential once the scope of the discovery has been set*
+- [ ]  Drupal reporting
+- [ ]  Synthesis of any existing analytics data around use and function
+- [ ]  High-level heuristic review of feature
+- [ ]  Technical or accessibility flag
+- [ ]  Best practices around use of feature
+- [ ]  Persona / user empathy exploration and synthesis
 
-### Resources:
-* Feature: JIRA Ticket #
-* Mockups: *Here goes a URL to or the name of the mockup(s) in inVision*
-* References: *URL to web site with examples*
-* Web Page: *Here goes a URL to an existing web page*
+### Resources and Links
+*Links to related content on Notion, mockups*
 
-### Prerequisites
-- *required dependency for identifying the problem, scope and then solution for this issue*
-- [ ] Short Spike Description - Issue #9999
 
-### Sub-Tasks
-- [ ] Short Task Description - Issue #9999
-- [ ] Short Task Description - Issue #9999
 
 ### Notes
+*Some complementary notes if necessary.*
 
-*Some complementary notes if necessary:*
-
-* > Here goes a quote from an email
-* Here goes whatever useful information can exist…
-* More notes, or technical nuances/direction
