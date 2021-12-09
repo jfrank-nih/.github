@@ -1,7 +1,7 @@
 ---
 name: Design
 about: This template provides a basic structure for design and creative tasks.
-title: "Design: "
+title: "Redesign: "
 labels: track:design
 ---
 
