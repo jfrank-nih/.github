@@ -20,8 +20,8 @@ labels: component
   * Tablet: *insert link here, or N/A if not needed*
   * Mobile: *insert link here, or N/A if not needed*
 
-### Notion Documentation *Additional background information for requirements*:
- *Here goes a URL to notion documentation*
+### Additional background information for requirements:
+ *Here goes documentation*
 
 ### Notes
 *Some complementary notes if necessary:*
