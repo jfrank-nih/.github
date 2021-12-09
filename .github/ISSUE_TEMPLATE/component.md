@@ -9,24 +9,47 @@ labels: component
 
 > **ESTIMATE** TBD
 
-### Variants Information
-*Is there a USWDS variant?  If we are using it - include the names of the variants, and links to USWDS. If we are creating something new, provide links to what it is based off of in resources section*
+## Design Definition of Done
+When all criteria below are met.
 
+### Baseline Discovery (add any additional info or links)
+- [ ] Heuristics/Best Practices
+- [ ] Analytics
+*Related links:
+- [ ] Accessibility
+*Related links:
+
+### Design
+- [ ] Design component
+- [ ] Conduct Design QA
+** Meet with design team to do visual QA for colors, fonts, spacing (padding/margin), etc.
+- [ ] Get component approved by client
+
+### USWDS Component Equivalant
+*Is this a USWDS component?  If so - are there variants? If we are creating something new, provide links to what it is based off of in resources section*
 * Related USWDS Links: *Here goes a URL to an existing web page*
+
+### Styling: 
+*Anatomy of a component*
+- [ ] Use correct spacing (8px grid)
+Size, emphasis, alignment
+
+### Usage
+*When to use component and when to use variant(s)*
+Ex: Use primary button over secondary
+
+*Style Guide*
+Dos and Donts
+Ex: Don't have 1 button in CTS strip
+
+### Behaviors
+*Summary of state changes and behavoirs. AC's are more detailed.*
 
 ### Invision Mockups: 
 *Here goes a URL to or the name of the mockup(s) in inVision to include hex codes, etc.*
   * Desktop: *insert link here, or enter N/A if not needed*
   * Tablet: *insert link here, or N/A if not needed*
   * Mobile: *insert link here, or N/A if not needed*
-
-### Additional background information for requirements:
- *Here goes documentation*
-
-### Notes
-*Some complementary notes if necessary:*
-* > Here goes a quote from an email
-* Here goes whatever useful information can exist…
 
 ### Acceptance Criteria for Behaviors 
 *If a component changes its between breakpoints, or things show/hide, that gets captured here* 
