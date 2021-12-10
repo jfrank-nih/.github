@@ -10,7 +10,7 @@ labels: component
 > **ESTIMATE** TBD
 
 ## Design Definition of Done
-When all criteria below are met.
+*When all criteria below are met.*
 
 ### Baseline Discovery (add any additional info or links)
 - [ ] Heuristics/Best Practices
@@ -22,10 +22,10 @@ When all criteria below are met.
 ### Design
 - [ ] Design component
 - [ ] Conduct Design QA
-** Meet with design team to do visual QA for colors, fonts, spacing (padding/margin), etc.
+*Meet with design team to do visual QA for colors, fonts, spacing (padding/margin), etc.
 - [ ] Get component approved by client
 
-### USWDS Component Equivalant
+### USWDS Component Equivalent
 *Is this a USWDS component?  If so - are there variants? If we are creating something new, provide links to what it is based off of in resources section*
 * Related USWDS Links: *Here goes a URL to an existing web page*
 
@@ -40,19 +40,19 @@ Ex: Use primary button over secondary
 
 *Style Guide*
 Dos and Donts
-Ex: Don't have 1 button in CTS strip
+Ex: Don't have 1 button in CTA strip
 
 ### Behaviors
-*Summary of state changes and behavoirs. AC's are more detailed.*
+*Summary of state changes and behaviors. AC's are more detailed.*
 
-### Invision Mockups: 
-*Here goes a URL to or the name of the mockup(s) in inVision to include hex codes, etc.*
+### InVision Mockups: 
+*Here goes a URL to the mockup(s) in InVision that include specs*
   * Desktop: *insert link here, or enter N/A if not needed*
   * Tablet: *insert link here, or N/A if not needed*
   * Mobile: *insert link here, or N/A if not needed*
 
 ### Acceptance Criteria for Behaviors 
-*If a component changes its between breakpoints, or things show/hide, that gets captured here* 
+*If a component changes between breakpoints, or things show/hide, that gets captured here* 
 
 ```gherkin
 Scenario: [title]
