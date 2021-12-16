@@ -20,7 +20,7 @@ labels: component
 *Related links:
 
 ### Design
-- [ ] Design component
+- [ ] Design component. Link to design ticket:
 - [ ] Conduct Design QA
 *Meet with design team to do visual QA for colors, fonts, spacing (padding/margin), etc.
 - [ ] Get component approved by client
@@ -31,8 +31,7 @@ labels: component
 
 ### Styling: 
 *Anatomy of a component*
-- [ ] Use correct spacing (8px grid)
-Size, emphasis, alignment
+- [ ] Use correct spacing (8px grid) size, emphasis, alignment
 
 ### Usage
 *When to use component and when to use variant(s)*
@@ -45,11 +44,11 @@ Ex: Don't have 1 button in CTA strip
 ### Behaviors
 *Summary of state changes and behaviors. AC's are more detailed.*
 
-### InVision Mockups: 
-*Here goes a URL to the mockup(s) in InVision that include specs*
-  * Desktop: *insert link here, or enter N/A if not needed*
-  * Tablet: *insert link here, or N/A if not needed*
-  * Mobile: *insert link here, or N/A if not needed*
+### InVision: 
+  * DSM link: *insert link here, or enter N/A if not needed*
+  * Desktop mockup: *insert link here, or enter N/A if not needed*
+  * Tablet mockup: *insert link here, or N/A if not needed*
+  * Mobile mockup: *insert link here, or N/A if not needed*
 
 ### Acceptance Criteria for Behaviors 
 *If a component changes between breakpoints, or things show/hide, that gets captured here* 
