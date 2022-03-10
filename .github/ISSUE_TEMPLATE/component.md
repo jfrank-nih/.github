@@ -34,13 +34,12 @@ labels: component
 - [ ] Use correct spacing (8px grid) size, emphasis, alignment
 
 ### NCIDS Guidance
-*When to use component and its variant(s)*
-  *Use a card when featuring content*
-*When to consider something else*
-  *Use a list when you have multiple pieces of content, and will display too many cards*
-*Usability Guidance*
-Dos and Donts
-  *Example: Don't have 1 button in CTA strip*
+- [ ] *When to use component and its variant(s)*
+  * Example: Use a card when featuring content
+- [ ] *When to consider something else*
+  * Example Use a list when you have multiple pieces of content, and will display too many cards*
+- [ ] *Usability Guidance*
+  * Example: Don't have 1 button in CTA strip
 
 ### Behaviors
 *Summary of state changes and behaviors. AC's are more detailed.*
