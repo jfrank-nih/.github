@@ -33,13 +33,14 @@ labels: component
 *Anatomy of a component*
 - [ ] Use correct spacing (8px grid) size, emphasis, alignment
 
-### Usage
-*When to use component and when to use variant(s)*
-Ex: Use primary button over secondary
-
-*Style Guide*
+### NCIDS Guidance
+*When to use component and its variant(s)*
+  *Use a card when featuring content*
+*When to consider something else*
+  *Use a list when you have multiple pieces of content, and will display too many cards*
+*Usability Guidance*
 Dos and Donts
-Ex: Don't have 1 button in CTA strip
+  *Example: Don't have 1 button in CTA strip*
 
 ### Behaviors
 *Summary of state changes and behaviors. AC's are more detailed.*
