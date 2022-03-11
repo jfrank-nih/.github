@@ -33,14 +33,6 @@ labels: component
 *Anatomy of a component*
 - [ ] Use correct spacing (8px grid) size, emphasis, alignment
 
-### NCIDS Guidance
-- [ ] *When to use component and its variant(s)*
-  * Example: Use a card when featuring content
-- [ ] *When to consider something else*
-  * Example Use a list when you have multiple pieces of content, and will display too many cards*
-- [ ] *Usability Guidance*
-  * Example: Don't have 1 button in CTA strip
-
 ### Behaviors
 *Summary of state changes and behaviors. AC's are more detailed.*
 
@@ -90,3 +82,12 @@ Scenario: [title]
 - [ ] Update NCIDS-React
   - [ ] **Insert requirements/list of components for react**
     - (it can also be a separate ticket, should be linked here)
+
+## Do Not Forget to add the following as a comment to this ticket for this component
+### NCIDS Guidance
+- [ ] *When to use component and its variant(s)*
+  * Example: Use a card when featuring content
+- [ ] *When to consider something else*
+  * Example Use a list when you have multiple pieces of content, and will display too many cards*
+- [ ] *Usability Guidance*
+  * Example: Don't have 1 button in CTA strip
