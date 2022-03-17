@@ -5,3 +5,4 @@ title: "Research Plan: "
 labels: research
 ---
 
+# Starting to build out templates
