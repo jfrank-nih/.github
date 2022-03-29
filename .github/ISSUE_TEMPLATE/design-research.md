@@ -1,5 +1,5 @@
 ---
-name: Research
+name: Design Research
 about: This template provides a basic structure for research.
 title: "Research: "
 labels: research
