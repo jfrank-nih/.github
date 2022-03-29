@@ -1,5 +1,5 @@
 ---
-name: Discovery
+name: Design Discovery
 about: Capturing the kickoff of discovery for product, feature, dev, and design work.
 title: "Discovery: [Short Name]"
 labels: discovery
