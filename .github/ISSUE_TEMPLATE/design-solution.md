@@ -28,10 +28,18 @@ Design: [3 Solution Phase](https://lion.box.com/s/w5nalm9zjdt361bwke6fxys1duy8p9
 ## Design Solutions
 ### Description of Design Direction:
 
+### Considerations to take into account when designing:
+- Does this design element work for the same needs on Spanish pages?
+- What is the Tablet/Mobile display for this design element?
+- Is this element a re-envisioned version of something we currently have? (like the new guide cards for example) If so, what of the current Drupal functionality will remain in place? What would need to change in implementation?
+- If this is a new component, what is the purpose of the component/how is it used?
+- What other content types would this component work on? Which ones do we exclude it from and why?
+- What is the guidance or tooltips we would use for this component in Drupal?
+- Are there limitations we might want - like character limit, or only for use with media items, or only for use with internal links, etc?
+- How would someone outside of our system use this component? Getting back to the overall purpose of a component - is it to link to other content? Highlight content? - - What is the ultimate goal for a user when a component is used on a page?
+
 ### List of sub-tasks:
 *Add links to related tickets below*
-- [ ] Sub-Task
-- [ ] Sub-Task
 - [ ] Sub-Task
 
 ## Files
@@ -51,21 +59,15 @@ Design: [3 Solution Phase](https://lion.box.com/s/w5nalm9zjdt361bwke6fxys1duy8p9
 ### Functionality:
 *Describe how the design should function, e.g. color changes on hover*
 1. Specification 
-2. Specification  
-3. Specification 
+
 
 ### Specs / InVision:
 *Design specs indicated in the InVision links below. Please view in the inspect mode along with the comments panel*
 1. InVision link
-2. InVision link
-3. InVision link
+
 
 #### Technical Constraints
 *Technical constraints and dev questions to consider*
 1. Constraint
-2. Constraint
-3. Constraint 
 
 1. Dev question to be answered
-2. Dev question to be answered
-3. Dev question to be answered
