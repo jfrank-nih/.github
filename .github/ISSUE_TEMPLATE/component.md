@@ -55,6 +55,8 @@ Scenario: [title]
 ```
 
 ---
+### Scenarios
+- *edge cases*
 
 ## Solution
 
