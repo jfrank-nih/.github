@@ -48,6 +48,7 @@ module.exports = {
     "header-min-length": [2, "always", 20],
     "header-max-length": [2, "always", 72],
     "body-leading-blank": [2, "always"],
+    "check-pull-request": [2, "always"],
   }
 };
 
