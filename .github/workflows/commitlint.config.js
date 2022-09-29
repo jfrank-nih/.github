@@ -32,6 +32,11 @@ module.exports = {
             ];
           }
           return [true, ""];
+        },
+        "check-pull-request": (parsed) => {
+          const prBody = context.payload.pull_request.body
+          console.log(prBody)
+          return [true, ""];
         }
       },
     },
@@ -45,3 +50,6 @@ module.exports = {
     "body-leading-blank": [2, "always"],
   }
 };
+
+
+

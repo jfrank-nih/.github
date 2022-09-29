@@ -18,10 +18,11 @@ jobs:
       - name: Checkout commitlint config
         uses: actions/checkout@v3
         with:
-          repository: NCIOCPL/.github
+          repository: jfrank-nih/.github
           # This URL will need to be updated when we want to bump to a new version
-          ref: workflow/v1
+          ref: jfrank-workflow-branch
           path: commitlint
+          fetch-depth: 0
       - name: Commitlint
         uses: wagoid/commitlint-github-action@v5
         with:
